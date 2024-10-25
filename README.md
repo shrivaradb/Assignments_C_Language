@@ -1,7 +1,7 @@
 
 Here are the inputs of the assignments related to the specific topic.
-  
-   **Basics:**
+
+  **Basics:**
 1) Hello World!
 2) Variables
 3) Data types
