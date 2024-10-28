@@ -27,5 +27,5 @@ Here are the inputs of the assignments related to the specific topic.
 3) while loop
 
 - **Input:**
-- To get the inputs from the user **scanf** method is used.
+To get the inputs from the user **scanf** method is used.
 
