@@ -26,5 +26,6 @@ Here are the inputs of the assignments related to the specific topic.
 2) for loop
 3) while loop
 
-- **To take inputs from the user we have to use scanf.(Attached the input)**
+- **Input:**
+- To get the inputs from the user **scanf** method is used.
 
