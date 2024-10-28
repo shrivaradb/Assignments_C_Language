@@ -23,4 +23,6 @@ Here are the inputs of the assignments related to the specific topic.
 
 - **Conditional Statements:**
 1) if-else Statements
+2) for loop
+3) while loop
 
