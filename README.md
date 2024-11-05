@@ -25,6 +25,10 @@ Here are the inputs of the assignments related to the specific topic.
 1) if-else Statements
 2) for loop
 3) while loop
+4) Switch Case:
+-    Prompt the user to enter a number, then print the corresponding day of the week.
+-    Prompt the user to enter a number, then print the corresponding month of the year.
+    
 
 - **Input:**
 To get the inputs from the user **scanf** method is used.
