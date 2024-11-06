@@ -26,10 +26,10 @@ Here are the inputs of the assignments related to the specific topic.
 2) for loop
 3) while loop
 4) Switch Case:
-   -    Prompt the user to enter a number, then print the corresponding day of the week.
-   -    Prompt the user to enter a number, then print the corresponding month of the year.
-   -    This program allows users to select food items from a menu, enter the quantity for each, and view the subtotal and final total bill. It uses a 'switch' statement to 
-        calculate the cost based on the chosen items and quantities.
+   -    **Day-** Prompt the user to enter a number, then print the corresponding day of the week.
+   -    **Month-** Prompt the user to enter a number, then print the corresponding month of the year.
+   -    **Food Menu-** This program allows users to select food items from a menu, enter the quantity for each, and view the subtotal and final total bill. It uses a 
+                       'switch' statement to calculate the cost based on the chosen items and quantities.
 
        
 - **Input:**
