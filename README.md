@@ -26,6 +26,11 @@ Here are the inputs of the assignments related to the specific topic.
    -    **Average Marks-** This C program calculates the total and average marks from five subjects and then assigns a grade 
                            based on the average percentage. It takes input for each subject, calculates the total score, 
                            computes the average, and displays the appropriate grade.
+   -    **Eligibility for Working-** This C program takes the user's age as input and determines their work eligibility. It 
+                                     categorizes the user as a minor, eligible for working, or ready for retirement based on 
+                                     the age entered.
+   -    **Grades based on marks-** This C program assigns a grade based on the user's marks out of 100. It uses nested `if` 
+                                   statements to categorize grades as A, B, C, D, or F (fail) based on the entered score.
         
 
 3) for loop:
