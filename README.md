@@ -22,8 +22,13 @@ Here are the inputs of the assignments related to the specific topic.
 6) Ternary Operators
 
 - **Conditional Statements:**
-1) if-else Statements
-2) for loop:
+1) if-else Statements:
+   -    **Average Marks-** This C program calculates the total and average marks from five subjects and then assigns a grade 
+                           based on the average percentage. It takes input for each subject, calculates the total score, 
+                           computes the average, and displays the appropriate grade.
+        
+
+3) for loop:
    -    **Even Numbers-** This C program prompts the user to enter a number and then prints all even numbers from 0 up to that number. It uses a `for` loop and checks if 
                           each number is even using the modulus operator.
    -    -**Odd Numbers-** This C program prompts the user for a number and then prints all odd numbers from 1 up to that number. It uses a `for` loop and checks each 
