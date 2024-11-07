@@ -41,7 +41,8 @@ Here are the inputs of the assignments related to the specific topic.
    -    -**Factorial-** This C program prompts the user to enter a number and then calculates its factorial using a `for` loop. It initializes the factorial to 1, multiplies 
                         it by each integer up to the entered number, and then displays the resulting factorial.
 4) while loop
-5) Switch Case:
+5) do while
+6) Switch Case:
    -    **Day-** Prompt the user to enter a number, then print the corresponding day of the week.
    -    **Month-** Prompt the user to enter a number, then print the corresponding month of the year.
    -    **Food Menu-** This program allows users to select food items from a menu, enter the quantity for each, and view the subtotal and final total bill. It uses a 
