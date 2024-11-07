@@ -7,13 +7,13 @@
 
 Here are the inputs of the assignments related to the specific topic.
 
-- **Basics:**
+- _**Basics:**_
 1) Hello World!
 2) Variables
 3) Data types
 4) Type Casting
 
-- **Operators:**
+- _**Operators:**_
 1) Arithmetic Operators
 2) Relational Operators
 3) Logical Operators
@@ -21,7 +21,7 @@ Here are the inputs of the assignments related to the specific topic.
 5) Bitwise Operators
 6) Ternary Operators
 
-- **Conditional Statements:**
+- _**Conditional Statements:**_
 1) if-else Statements:
    -    **Average Marks-** This C program calculates the total and average marks from five subjects and then assigns a grade 
                            based on the average percentage. It takes input for each subject, calculates the total score, 
@@ -48,6 +48,6 @@ Here are the inputs of the assignments related to the specific topic.
                        'switch' statement to calculate the cost based on the chosen items and quantities.
 
        
-- **Input:**
+- _**Input:**_
 To get the inputs from the user **scanf** method is used.
 
