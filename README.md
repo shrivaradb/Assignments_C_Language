@@ -24,7 +24,12 @@ Here are the inputs of the assignments related to the specific topic.
 - **Conditional Statements:**
 1) if-else Statements
 2) for loop:
-   -    **Even Numbers-** This C program prompts the user to enter a number and then prints all even numbers from 0 up to that number. It uses a `for` loop and checks if each number is even using the modulus operator.
+   -    **Even Numbers-** This C program prompts the user to enter a number and then prints all even numbers from 0 up to that number. It uses a `for` loop and checks if 
+                          each number is even using the modulus operator.
+   -    -**Odd Numbers-** This C program prompts the user for a number and then prints all odd numbers from 1 up to that number. It uses a `for` loop and checks each 
+                          number’s parity, printing the next odd number for each even `i`.
+   -    -**Factorial-** This C program prompts the user to enter a number and then calculates its factorial using a `for` loop. It initializes the factorial to 1, multiplies 
+                        it by each integer up to the entered number, and then displays the resulting factorial.
 4) while loop
 5) Switch Case:
    -    **Day-** Prompt the user to enter a number, then print the corresponding day of the week.
