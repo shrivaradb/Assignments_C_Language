@@ -47,6 +47,8 @@ Here are the inputs of the assignments related to the specific topic.
    -    **Month-** Prompt the user to enter a number, then print the corresponding month of the year.
    -    **Food Menu-** This program allows users to select food items from a menu, enter the quantity for each, and view the subtotal and final total bill. It uses a 
                        'switch' statement to calculate the cost based on the chosen items and quantities.
+        **MCQ-** This C program quizzes the user on which cricket team has won the most World Cups. It provides four options, takes user input, and checks the answer using a 
+                 `switch` statement to display whether the choice is correct or incorrect.
 
        
 - _**Input:**_
