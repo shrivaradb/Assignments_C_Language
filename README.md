@@ -51,7 +51,7 @@ Here are the inputs of the assignments related to the specific topic.
                    a `switch` statement to display whether the choice is correct or incorrect.
 
 - _**Patterns:**_
-   -**Pyramid-** This C program prints a pyramid pattern of asterisks. The user inputs the number of rows, and the program displays a centered triangle of that height using nested loops.
+   -   **Pyramid-** This C program prints a pyramid pattern of asterisks. The user inputs the number of rows, and the program displays a centered triangle of that height using nested loops.
    -   **Right Half Pyramid-** This C program prints a left-aligned triangle of asterisks. The user enters the number of rows, and the program displays a triangle with increasing stars per row.
 
 
