@@ -50,9 +50,10 @@ Here are the inputs of the assignments related to the specific topic.
    -    **MCQ-** This C program quizzes the user on which cricket team has won the most World Cups. It provides four options, takes user input, and checks the answer using 
                    a `switch` statement to display whether the choice is correct or incorrect.
 
- -**Patterns:**
-   -**Pyramid-** This C program prints a pyramid pattern of asterisks. The user inputs the number of rows, and the program displays a centered triangle of that height using nested loops.
-   -   **Right Half Pyramid-** This C program prints a left-aligned triangle of asterisks. The user enters the number of rows, and the program displays a triangle with increasing stars per row.
+ -_**Patterns:**_
+ 
+     -**Pyramid-** This C program prints a pyramid pattern of asterisks. The user inputs the number of rows, and the program displays a centered triangle of that height using nested loops.
+     -   **Right Half Pyramid-** This C program prints a left-aligned triangle of asterisks. The user enters the number of rows, and the program displays a triangle with increasing stars per row.
 
 
        
