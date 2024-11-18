@@ -53,6 +53,10 @@ Here are the inputs of the assignments related to the specific topic.
 - _**Patterns:**_
    -   **Pyramid-** This C program prints a pyramid pattern of asterisks. The user inputs the number of rows, and the program displays a centered triangle of that height using nested loops.
    -   **Right Half Pyramid-** This C program prints a left-aligned triangle of asterisks. The user enters the number of rows, and the program displays a triangle with increasing stars per row.
+   -   **Left Half Pyramid-** This C program generates a right-aligned triangular pattern of stars (`*`) based on the number of rows entered by the user. It uses nested loops to control spacing and star placement.
+   -   **Reverse Pyramid-** This C program generates an inverted right-aligned triangular pattern of stars (`*`) based on the number of rows input by the user. It uses nested loops to manage leading spaces and star placements.
+   -   **Reverse-Right Half Pyramid-** This C program creates an inverted triangular pattern of stars (`*`), with the number of rows determined by user input. It uses nested loops to print decreasing numbers of stars in each row.
+   -   **Reverse-Left Half Pyramid-** This C program generates an inverted triangle pattern of stars (`*`) that is right-aligned, with the number of rows determined by user input. It uses nested loops to add increasing spaces and decreasing stars for each row.
 
 
        
