@@ -9,10 +9,22 @@ Here are the inputs of the assignments related to the specific topic.
 
 - _**Basics:**_
 1) Hello World!
+      * This program is a simple "Hello World" program. It uses the printf function to print the text "Hello World" to the console.
 2) Variables
+   * This program demonstrates the declaration, definition, and usage of a variable:
+Declaration: Declaring an integer variable a.
+Definition: Assigning a value to a.
+Usage: Modifying a by adding 16 to its value and printing the result.
 3) Data types
+   * This program showcases three basic data types in C:
+Integer (int): Represents whole numbers.
+Float (float): Represents decimal numbers.
+Character (char): Represents single characters.
+It declares variables of each type, assigns values, and prints them using appropriate format specifiers (%d, %f, %c).
 4) Type Casting
-
+   * This program demonstrates:
+Integer addition using c = a + b.
+Type casting to float with d = (float)a + b, converting one operand to a float, resulting in a floating-point output. Both results are printed using %d for integers and %f for floats.
 - _**Operators:**_
    - **Arithmetic Operators-** This program demonstrates arithmetic operations in C, including addition, subtraction, multiplication, division, and modulus.
    - **Relational Operators-** This program compares two integers, a and b, using relational operators (>, <, >=, <=, ==) and prints the results. The output is in boolean values, where 1 represents true, and 0 represents false.
