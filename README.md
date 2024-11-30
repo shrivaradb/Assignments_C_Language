@@ -14,12 +14,16 @@ Here are the inputs of the assignments related to the specific topic.
 4) Type Casting
 
 - _**Operators:**_
-1) Arithmetic Operators
-2) Relational Operators
-3) Logical Operators
-4) Assignment Operators
-5) Bitwise Operators
-6) Ternary Operators
+   - **Arithmetic Operators-** This program demonstrates arithmetic operations in C, including addition, subtraction, multiplication, division, and modulus.
+   - **Relational Operators-** This program compares two integers, a and b, using relational operators (>, <, >=, <=, ==) and prints the results. The output is in boolean values, where 1 represents true, and 0 represents false.
+   - **Ternary Operators-** This program illustrates the use of logical operators:
+                             *Logical AND (&&) checks if both conditions are true.
+                             *Logical OR (||) checks if at least one condition is true.
+                             *Logical NOT (!) negates the truth value of a condition.
+   - **Assignment Operators-** This program demonstrates the use of compound assignment operators (+=, -=, *=, /=) to modify the value of an integer a. The updated values of a are printed after each operation.
+   - **Bitwise Operators-** This program uses bitwise operators (&, |, ^, ~) to manipulate the binary representation of two integers, a and b. It performs AND, OR, XOR, and NOT operations, printing the results.
+   - **Ternary Operators-** This program demonstrates the ternary operator (? :) to determine the greater of two integers, a and b. The larger value is assigned to max and printed as the result.
+  
 
 - _**Conditional Statements:**_
 1) if-else Statements:
