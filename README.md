@@ -17,9 +17,9 @@ Here are the inputs of the assignments related to the specific topic.
    - **Arithmetic Operators-** This program demonstrates arithmetic operations in C, including addition, subtraction, multiplication, division, and modulus.
    - **Relational Operators-** This program compares two integers, a and b, using relational operators (>, <, >=, <=, ==) and prints the results. The output is in boolean values, where 1 represents true, and 0 represents false.
    - **Ternary Operators-** This program illustrates the use of logical operators:
-* Logical AND (&&) checks if both conditions are true.
-* Logical OR (||) checks if at least one condition is true.
-* Logical NOT (!) negates the truth value of a condition.
+         * Logical AND (&&) checks if both conditions are true.
+         * Logical OR (||) checks if at least one condition is true.
+         * Logical NOT (!) negates the truth value of a condition.
 It prints results based on the truth or falsity of the given conditions.
 
    - **Assignment Operators-** This program demonstrates the use of compound assignment operators (+=, -=, *=, /=) to modify the value of an integer a. The updated values of a are printed after each operation.
