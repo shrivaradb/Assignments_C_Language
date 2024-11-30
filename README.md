@@ -8,20 +8,20 @@
 Here are the inputs of the assignments related to the specific topic.
 
 - _**Basics:**_
-1) Hello World!
+1) **Hello World!**
       * This program is a simple "Hello World" program. It uses the printf function to print the text "Hello World" to the console.
-2) Variables
+2) **Variables**
    * This program demonstrates the declaration, definition, and usage of a variable:
 Declaration: Declaring an integer variable a.
 Definition: Assigning a value to a.
 Usage: Modifying a by adding 16 to its value and printing the result.
-3) Data types
+3) **Data types**
    * This program showcases three basic data types in C:
 Integer (int): Represents whole numbers.
 Float (float): Represents decimal numbers.
 Character (char): Represents single characters.
 It declares variables of each type, assigns values, and prints them using appropriate format specifiers (%d, %f, %c).
-4) Type Casting
+4) **Type Casting**
    * This program demonstrates:
 Integer addition using c = a + b.
 Type casting to float with d = (float)a + b, converting one operand to a float, resulting in a floating-point output. Both results are printed using %d for integers and %f for floats.
@@ -39,7 +39,7 @@ It prints results based on the truth or falsity of the given conditions.
   
 
 - _**Conditional Statements:**_
-1) if-else Statements:
+1) **if-else Statements:**
    -    **Average Marks-** This C program calculates the total and average marks from five subjects and then assigns a grade 
                            based on the average percentage. It takes input for each subject, calculates the total score, 
                            computes the average, and displays the appropriate grade.
@@ -50,18 +50,18 @@ It prints results based on the truth or falsity of the given conditions.
                                    statements to categorize grades as A, B, C, D, or F (fail) based on the entered score.
         
 
-3) for loop:
+2) **for loop:**
    -    **Even Numbers-** This C program prompts the user to enter a number and then prints all even numbers from 0 up to that number. It uses a `for` loop and checks if 
                           each number is even using the modulus operator.
    -    **Odd Numbers-** This C program prompts the user for a number and then prints all odd numbers from 1 up to that number. It uses a `for` loop and checks each 
                           number’s parity, printing the next odd number for each even `i`.
    -    **Factorial-** This C program prompts the user to enter a number and then calculates its factorial using a `for` loop. It initializes the factorial to 1, multiplies 
                         it by each integer up to the entered number, and then displays the resulting factorial.
-4) while loop
+2) **while loop**
    * This program demonstrates the while loop in C. It initializes an integer i to 20 and prints its value in each iteration. The loop decrements i by 1 in each iteration and runs as long as i is greater than 0.
-6) do while
+4) **do while**
    * This program demonstrates the do-while loop in C. It initializes an integer i to 0 and prints "shrivaradb" in each iteration. The loop runs until i is less than 5, incrementing i by 1 in each iteration. The do-while loop ensures the body is executed at least once.
-8) Switch Case:
+5) **Switch Case:**
    -    **Day-** Prompt the user to enter a number, then print the corresponding day of the week.
    -    **Month-** Prompt the user to enter a number, then print the corresponding month of the year.
    -    **Food Menu-** This program allows users to select food items from a menu, enter the quantity for each, and view the subtotal and final total bill. It uses a 
