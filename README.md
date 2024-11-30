@@ -57,6 +57,9 @@ Here are the inputs of the assignments related to the specific topic.
    -   **Reverse Pyramid-** This C program generates an inverted right-aligned triangular pattern of stars (`*`) based on the number of rows input by the user. It uses nested loops to manage leading spaces and star placements.
    -   **Reverse-Right Half Pyramid-** This C program creates an inverted triangular pattern of stars (`*`), with the number of rows determined by user input. It uses nested loops to print decreasing numbers of stars in each row.
    -   **Reverse-Left Half Pyramid-** This C program generates an inverted triangle pattern of stars (`*`) that is right-aligned, with the number of rows determined by user input. It uses nested loops to add increasing spaces and decreasing stars for each row.
+ 
+- _**Arrays:**_
+   - **Matrix Multiplication-** This C program performs matrix multiplication. It prompts the user to input the dimensions and elements of two matrices, validates if the multiplication is possible (i.e., the number of columns in Matrix A equals the number of rows in Matrix B), and computes the resultant matrix. The program then prints the input matrices and their product in a formatted way.
 
 
        
