@@ -79,6 +79,11 @@ It prints results based on the truth or falsity of the given conditions.
  
 - _**Arrays:**_
    - **Matrix Multiplication-** This C program performs matrix multiplication. It prompts the user to input the dimensions and elements of two matrices, validates if the multiplication is possible (i.e., the number of columns in Matrix A equals the number of rows in Matrix B), and computes the resultant matrix. The program then prints the input matrices and their product in a formatted way.
+ 
+-_**Structures:**_
+   - **Student Details Code-** This program defines a Student structure and collects details (name, roll number, and marks) of five students using loops. It then displays the entered details for all students. Proper handling of string input is used to accommodate spaces in names.
+   - **Employee Details Code-** This program defines an Employee structure and collects details (name, email address, phone number, age, and blood group) for two employees. The details of both employees are then displayed. Input handling is basic, and improvements like using fgets for strings can enhance robustness.
+   - **Books Details Code-** This program defines a Books structure and initializes details of a book (title, author, and subject). The data is copied to another book structure, and the details of both books are displayed. The focus is on showcasing structure usage and string manipulation.  
 
 
        
